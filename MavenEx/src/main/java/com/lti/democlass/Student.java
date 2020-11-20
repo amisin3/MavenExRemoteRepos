@@ -1,4 +1,4 @@
-import com.lti.democlass;
+package com.lti.democlass;
 
 class Studnet {
 
